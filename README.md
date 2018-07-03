@@ -66,9 +66,10 @@ DB_DATABASE=db_laravel_people
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
+**3. How to proceed**<br />
+The best thing to do is follow the step by step in the post and just use the files in the repository into the repository as models.
 
-
-**2. More information**<br />
+**4. More information**<br />
 For those, who are looking for more information, a full article is available with additional resources is available @ [flaven.fr](http://flaven.fr/)
 
 
@@ -78,9 +79,6 @@ For those, you want to get the code directly, you can use the following command.
 
 ```
 $ git clone https://github.com/bflaven/laravel-dusk-testing-people-app.git
-$ cd laravel-dusk-testing-people-app
-$ composer install
-
 ```
 
 
