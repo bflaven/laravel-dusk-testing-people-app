@@ -3,7 +3,9 @@
 
 
 ## Laravel, Dusk -  Build a web application with Laravel and test it with Dusk
-Here is a SPA (Single Page Application) based on the previous API presented in the previous post. The idea is to introduce the EJS Templating Engine to expose data to the user. This is a simple and basic CRUD application (Create, Read, Update, Delete) using Node.js, Express, MySQL & EJS Templating Engine. It has also test included made with Cheerio and Documentation (Apidoc)
+A quick introduction to Laravel and Dusk. The best thing to do is follow the step by step in the post and just use the files in the repository into the repository as models.
+
+[Laravel, Dusk -  Build a web application with Laravel and test it with Dusk](http://flaven.fr/2018/07/laravel-dusk-build-a-web-application-with-laravel-and-test-it-with-dusk/)
 
 
 **Creating database and table**
@@ -71,6 +73,8 @@ The best thing to do is follow the step by step in the post and just use the fil
 
 **4. More information**<br />
 For those, who are looking for more information, a full article is available with additional resources is available @ [flaven.fr](http://flaven.fr/)
+
+[Laravel, Dusk -  Build a web application with Laravel and test it with Dusk](http://flaven.fr/2018/07/laravel-dusk-build-a-web-application-with-laravel-and-test-it-with-dusk/)
 
 
 ### Clone this repository
